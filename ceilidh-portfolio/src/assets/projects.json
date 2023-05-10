@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Showcase",
+    "excerpt": "Corrupti accusantium ut praesentium non. Rem dolor tenetur vero sint enim consequatur.",
+    "body": "<p>Voluptatibus aliquam omnis velit ratione eaque. Expedita et ad doloribus quas. Pariatur molestiae tempore itaque.</p></p>Delectus esse cum odio aperiam. Nam in alias eaque sed sed et qui. Consequatur qui consectetur ut inventore ab.</p></p>Rerum facilis molestiae maxime eligendi. Sint est blanditiis in. Corporis eligendi sit et maiores sed et atque. Dolor ut blanditiis cum.</p></p>Illo blanditiis dolor aut aut suscipit vel. Quo et deleniti doloremque ducimus eos at soluta. Ab sed dolor eos. Dolores rerum dolor molestiae quo. Ut laborum deleniti delectus tenetur.</p>",
+    "url": null,
+    "published_date": null,
+    "image": null,
+    "thumb": null,
+    "category_id": 3,
+    "created_at": "2023-04-17T05:42:09.000000Z",
+    "updated_at": "2023-04-17T05:42:09.000000Z",
+    "slug": "portfolio-showcase",
+    "category": { "id": 3, "slug": "full-stack", "name": "Full Stack" },
+    "tags": [
+      {
+        "id": 1,
+        "name": "React Native",
+        "slug": "react-native"
+      },
+      {
+        "id": 2,
+        "name": "Kotlin",
+        "slug": "kotlin"
+      },
+      {
+        "id": 3,
+        "name": "Swift",
+        "slug": "swift"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "SSD Yearbook",
+    "excerpt": "Aspernatur quos porro consequuntur sed. Id repudiandae blanditiis nihil eveniet et.",
+    "body": "<p>Culpa cumque impedit quia amet minus iste. Fuga eum eveniet beatae eos enim. Vitae eos sed est excepturi praesentium. Fugit suscipit beatae sapiente illum sed sint porro amet. Qui aut architecto id et repellendus.</p></p>Aut sit et sunt id omnis. Ea ut repudiandae et voluptates non explicabo. Commodi eveniet nam soluta laudantium fuga. Nulla adipisci labore veritatis nisi doloremque dolorem earum. Quia eum qui illo dignissimos ad aut.</p></p>Ratione omnis commodi modi quae hic eligendi sequi. Nulla aspernatur aliquid atque iure dignissimos provident. Velit sit officiis quaerat quia.</p>",
+    "url": null,
+    "published_date": null,
+    "image": null,
+    "thumb": null,
+    "category_id": 1,
+    "created_at": "2023-04-17T05:42:09.000000Z",
+    "updated_at": "2023-04-17T05:42:09.000000Z",
+    "slug": "ssd-yearbook",
+    "category": { "id": 1, "slug": "back-end", "name": "Back End" },
+    "tags": []
+  },
+  {
+    "id": 3,
+    "title": "Movie Mania",
+    "excerpt": "Suscipit aspernatur et ut repellendus occaecati tenetur impedit. Tempora veniam eius vitae fugit.",
+    "body": "<p>Et illum quia officia in. Qui molestiae dolorum quae aspernatur. Praesentium iure non explicabo et error quis. Sed facilis nam velit et velit.</p></p>Est qui itaque beatae possimus eaque. Consequatur a ipsum quaerat sint impedit occaecati omnis. Architecto qui assumenda enim sunt id aut vel. Doloremque dolor rerum soluta iusto omnis quod.</p></p>Non quia amet sint ut qui. Odit alias expedita reprehenderit culpa. Cum mollitia possimus ut voluptatem.</p></p>Enim quidem voluptas consequatur reprehenderit exercitationem eligendi. Est totam at facere quis ab. Numquam nihil ut ab dolores. Placeat qui ipsam consectetur dolore quae quo.</p></p>Rerum ea id dolorum et perspiciatis nulla ut rem. Ea incidunt pariatur ut vero consequatur. Commodi odio tempora est consequatur. Ducimus numquam earum tempore quia dolorem mollitia est velit.</p>",
+    "url": null,
+    "published_date": null,
+    "image": null,
+    "thumb": null,
+    "category_id": null,
+    "created_at": "2023-04-17T05:42:09.000000Z",
+    "updated_at": "2023-04-17T05:42:09.000000Z",
+    "slug": "movie-mania",
+    "category": null,
+    "tags": []
+  },
+  {
+    "id": 4,
+    "title": "News Site Homepage",
+    "excerpt": "Impedit nulla sed totam ut et eius. Eius nemo est in quis ut.",
+    "body": "<p>Vitae ea ut et nemo ratione illum. Itaque aliquid aut sapiente fugit. In sit consequatur doloremque recusandae delectus quis ipsam.</p></p>Magnam quia et sed nam. Ab tenetur sunt aut magni dolor laboriosam expedita labore. Nam beatae praesentium exercitationem. Eum iste cupiditate quam deleniti officiis est.</p></p>Expedita impedit hic deleniti amet quia. Iure unde minima autem excepturi. Quis voluptatum sunt itaque adipisci. Veniam provident expedita nostrum earum nemo maiores. Velit et pariatur dolorem adipisci.</p>",
+    "url": null,
+    "published_date": null,
+    "image": null,
+    "thumb": null,
+    "category_id": 2,
+    "created_at": "2023-04-17T05:42:09.000000Z",
+    "updated_at": "2023-04-17T05:42:09.000000Z",
+    "slug": "news-site-homepage",
+    "category": { "id": 2, "slug": "front-end", "name": "Front End" },
+    "tags": []
+  },
+  {
+    "id": 5,
+    "title": "JavaScript Game",
+    "excerpt": "Est nihil et delectus qui eligendi repudiandae. Molestiae aut distinctio nobis in sit repellendus.",
+    "body": "<p>Sapiente error fugit et. Velit quis et et voluptas dolores et. Accusamus et qui illum sed.</p></p>Consequatur quo velit aperiam accusamus. Hic tenetur quo quis omnis tenetur expedita ex. Dolores praesentium quisquam dolorum optio. Voluptatem voluptatem architecto itaque.</p></p>Repellendus quia autem consequatur aut fugit. Quidem rem sed placeat excepturi aspernatur nobis ut. Et dolorem voluptatum minima in dolorem. Optio enim perspiciatis quis magni expedita.</p>",
+    "url": null,
+    "published_date": null,
+    "image": null,
+    "thumb": null,
+    "category_id": 2,
+    "created_at": "2023-04-17T05:42:09.000000Z",
+    "updated_at": "2023-04-17T05:42:09.000000Z",
+    "slug": "javascript-game",
+    "category": { "id": 2, "slug": "front-end", "name": "Front End" },
+    "tags": []
+  },
+  {
+    "id": 6,
+    "title": "iOS App",
+    "excerpt": "Reiciendis libero voluptates ducimus qui. Ut voluptatum adipisci omnis quia doloremque.",
+    "body": "<p>Voluptatibus et id eum aut neque voluptatem. Ad voluptates velit quis eligendi maxime quos animi voluptas. Vel unde dolores iure.</p></p>Similique accusantium dolor nulla eos dolorem ut. Ut laudantium dolorum minus enim eum beatae. Itaque vel at reprehenderit occaecati. Dolorum neque quam cum animi dolore maxime aspernatur.</p></p>Quas suscipit tempore mollitia ut sit. Alias quia officiis et rem alias sequi.</p>",
+    "url": null,
+    "published_date": null,
+    "image": null,
+    "thumb": null,
+    "category_id": null,
+    "created_at": "2023-04-17T05:42:09.000000Z",
+    "updated_at": "2023-04-17T05:42:09.000000Z",
+    "slug": "ios-app",
+    "category": null,
+    "tags": []
+  },
+  {
+    "id": 7,
+    "title": "Android App",
+    "excerpt": "Facere deleniti eos ut maxime reprehenderit debitis. Vitae eveniet perferendis rerum.",
+    "body": "<p>Distinctio sequi amet qui est voluptatum. Eligendi nihil et sed non possimus laudantium. In dolorum voluptatem nihil omnis repudiandae.</p></p>Magni earum sint dolor illo praesentium. Distinctio iste et eos labore eum sit. Delectus ipsam repellendus eos.</p></p>Officia qui qui nam molestiae. Dolores aut accusamus consequatur. Quis nesciunt vitae nobis quas praesentium iure dignissimos. Aut ad animi et nihil est aspernatur.</p>",
+    "url": null,
+    "published_date": null,
+    "image": null,
+    "thumb": null,
+    "category_id": null,
+    "created_at": "2023-04-17T05:42:09.000000Z",
+    "updated_at": "2023-04-17T05:42:09.000000Z",
+    "slug": "android-app",
+    "category": null,
+    "tags": []
+  },
+  {
+    "id": 9,
+    "title": "Cake Factory",
+    "excerpt": "A lil cake factory",
+    "body": "Time to go zooooom hunt anything so damn that dog . Mark territory. Sun bathe flop over snuggles up to shoulders or knees and purrs you to sleep human clearly uses close to one life a night no one naps that long so i revive by standing on chestawaken! annoy kitten brother with poking but see brother cat receive pets, attack out of jealousy. I do no work yet get food, shelter, and lots of stuff just like man who lives with us cats go for world domination, behind the couch, and don't nosh on the birds soft kitty warm kitty little ball of furr i will ruin the couch with my claws, and instantly break out into full speed gallop across the house for no reason. Climb into cupboard and lick the salt off rice cakes asdflkjaertvlkjasntvkjn (sits on keyboard) tickle my belly at your own peril i will pester for food when you're in the kitchen even if it's salad , for steal the warm chair right after you get up why can't i catch that stupid red dot taco cat backwards spells taco cat yet furrier and even more furrier hairball. I'm bored inside, let me out i'm lonely outside, let me in i can't make up my mind whether to go in or out, guess i'll just stand partway in and partway out, contemplating the universe for half an hour how dare you nudge me with your foot?!?! leap into the air in greatest offense! reaches under door into adjacent room spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce, attack dog, run away and pretend to be victim sniff catnip and act crazy but one of these days i'm going to get that red dot, just you wait and see scratch so owner bleeds. Nap all day spit up on light gray carpet instead of adjacent linoleum jump on fridge scratch the postman wake up lick paw wake up owner meow meow flop over. Destroy couch snob you for another person or spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce yet pose purrfectly to show my beauty or sleep nap i just saw other cats inside the house and nobody ask me before using my litter box. Climb into cupboard and lick the salt off rice cakes bawl under human beds poop on couch. Sit by the fire chew the plant. If human is on laptop sit on the keyboard meowing non stop for food but get my claw stuck in the dog's ear. Commence midnight zoomies human clearly uses close to one life a night no one naps that long so i revive by standing on chestawaken!.\r\n\r\nCat playing a fiddle in hey diddle diddle? prance along on top of the garden fence, annoy the neighbor's dog and make it bark yet toy mouse squeak roll over try to hold own back foot to clean it but foot reflexively kicks you in face, go into a rage and bite own foot, hard catching very fast laser pointer litter kitter kitty litty little kitten big roar roar feed me or licks paws. Push your water glass on the floor at four in the morning wake up owner meeeeeeooww scratch at legs and beg for food then cry and yowl until they wake up at two pm jump on window and sleep while observing the bootyful cat next door that u really like but who already has a boyfriend end up making babies with her and let her move in. Spill litter box, scratch at owner, destroy all furniture, especially couch where is my slave? I'm getting hungry and dream about hunting birds, and hiiiiiiiiii feed me now yet grab pompom in mouth and put in water dish. Cough good now the other hand, too but lick butt, or eat an easter feather as if it were a bird then burp victoriously, but tender so reward the chosen human with a slow blink yet nya nya nyan and scratch the postman wake up lick paw wake up owner meow meow. Get scared by doggo also cucumerro hide at bottom of staircase to trip human for fat baby cat best buddy little guy or nap all day hiss at vacuum cleaner pet right here, no not there, here, no fool, right here that other cat smells funny you should really give me all the treats because i smell the best and omg you finally got the right spot and i love you right now for jump on fridge. Dead stare with ears cocked. Meow in empty rooms stare at imaginary bug yet hiss and stare at nothing then run suddenly away. Cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit plan your travel so flee in terror at cucumber discovered on floor. Drink water out of the faucet meow meow you are my owner so here is a dead bird why must they do that spill litter box, scratch at owner, destroy all furniture, especially couch ooooh feather moving feather!. Mew. Purr when give birth. Stand with legs in litter box, but poop outside \u00f0\u009d\u2022\u201e\u00f0\u009d\u201d\u00bc\u00f0\u009d\u2022\u2020\u00f0\u009d\u2022\u017d for mew mew. Pelt around the house and up and down stairs chasing phantoms i will ruin the couch with my claws so snuggles up to shoulders or knees and purrs you to sleep yet ask to go outside and ask to come inside and ask to go outside and ask to come inside. Have a lot of grump in yourself because you can't forget to be grumpy and not be like king grumpy cat meow all night adventure always mewl for food at 4am but steal mom's crouton while she is in the bathroom. Roll on the floor purring your whiskers off jump up to edge of bath, fall in then scramble in a mad panic to get out sit by the fire. Love you, then bite you ptracy let me in let me out let me in let me out let me in let me out who broke this door anyway but find empty spot in cupboard and sleep all day and pose purrfectly to show my beauty and i hate cucumber pls dont throw it at me. Small kitty warm kitty little balls of fur head nudges playing with balls of wool if human is on laptop sit on the keyboard spend six hours per day washing, but still have a crusty butthole cats are a queer kind of folk vommit food and eat it again. Knock dish off table head butt cant eat out of my own dish have a lot of grump in yourself because you can't forget to be grumpy and not be like king grumpy cat but catch eat throw up catch eat throw up bad birds so purr for gnaw the corn cob. Meoooow cat slap dog in face, and sleep on dog bed, force dog to sleep on floor meow meow you are my owner so here is a dead bird jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water and mew. Sleep all day whilst slave is at work, play all night whilst slave is sleeping munch, munch, chomp, chomp yet poop on couch cat dog hate mouse eat string barf pillow no baths hate everything. Eat a plant, kill a hand meow meow we are 3 small kittens sleeping most of our time, we are around 15 weeks old i think, i don\u00e2\u20ac\u2122t know i can\u00e2\u20ac\u2122t count or unwrap toilet paper chase mice, yet rub face on everything, and sleep everywhere, but not in my bed steal raw zucchini off kitchen counter. Fish i must find my red catnip fishy fish play with twist ties scratch the postman wake up lick paw wake up owner meow meow or bring your owner a dead bird please let me outside pouty face yay! wait, it's cold out please let me inside pouty face oh, thank you rub against mommy's leg oh it looks so nice out, please let me outside again the neighbor cat was mean to me please let me back inside for i rule on my back you rub my tummy i bite you hard but chase ball of string.\r\n\r\nHuman is washing you why halp oh the horror flee scratch hiss bite roll over and sun my belly for plan steps for world domination or pushed the mug off the table and small kitty warm kitty little balls of fur for eat the rubberband. This cat happen now, it was too purr-fect!!! meow meow we are 3 small kittens sleeping most of our time, we are around 15 weeks old i think, i don\u00e2\u20ac\u2122t know i can\u00e2\u20ac\u2122t count snuggles up to shoulders or knees and purrs you to sleep. Spit up on light gray carpet instead of adjacent linoleum scratch the furniture reaches under door into adjacent room for cat snacks, cough. Litter kitter kitty litty little kitten big roar roar feed me mice to pet a cat, rub its belly, endure blood and agony, quietly weep, keep rubbing belly, but walk on keyboard yet i see a bird i stare at it i meow at it i do a wiggle come here birdy. Stand in doorway, unwilling to chose whether to stay in or go out climb leg, making sure that fluff gets into the owner's eyes. Find empty spot in cupboard and sleep all day scratch at the door then walk away when owners are asleep, cry for no apparent reason so pushed the mug off the table. Stuff and things i shall purr myself to sleep jump five feet high and sideways when a shadow moves. Commence midnight zoomies. Making sure that fluff gets into the owner's eyes cat fur is the new black hide from vacuum cleaner. You have cat to be kitten me right meow stare at imaginary bug. Walk on keyboard steal raw zucchini off kitchen counter roll on the floor purring your whiskers off or no, you can't close the door, i haven't decided whether or not i wanna go out but meow. Run at 3am sit by the fire be superior yet i love cuddles for poop in litter box, scratch the walls. Sleep immediately regret falling into bathtub or knock dish off table head butt cant eat out of my own dish for shred all toilet paper and spread around the house but bird bird bird bird bird bird human why take bird out i could have eaten that and meow meow you are my owner so here is a dead bird meeeeouw. Why use post when this sofa is here hiding behind the couch until lured out by a feathery toy or sleep all day whilst slave is at work, play all night whilst slave is sleeping. Throw down all the stuff in the kitchen love, so hack up furballs so have my breakfast spaghetti yarn yet jump on fridge for meow.",
+    "url": "http://www.cat.com",
+    "published_date": null,
+    "image": "images/CakeFactory.jpg",
+    "thumb": "images/CakeFactory.jpg",
+    "category_id": 1,
+    "created_at": "2023-04-17T05:59:13.000000Z",
+    "updated_at": "2023-04-17T05:59:13.000000Z",
+    "slug": "cake-factory",
+    "category": { "id": 1, "slug": "back-end", "name": "Back End" },
+    "tags": [
+      {
+        "id": 2,
+        "name": "Kotlin",
+        "slug": "kotlin"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Hauler",
+    "excerpt": "BCIT SSD Industry Project",
+    "body": "An uber-esque peer-to-peer junk removal and courier platform.",
+    "url": "http://hauleraway.com",
+    "published_date": "2023-04-14",
+    "image": "images/CakeFactory.jpg",
+    "thumb": "images/CakeFactory.jpg",
+    "category_id": 3,
+    "created_at": "2023-04-20T20:05:37.000000Z",
+    "updated_at": "2023-04-20T20:05:37.000000Z",
+    "slug": "hauler",
+    "category": { "id": 3, "slug": "full-stack", "name": "Full Stack" },
+    "tags": [
+      {
+        "id": 1,
+        "name": "React Native",
+        "slug": "react-native"
+      }
+    ]
+  }
+]

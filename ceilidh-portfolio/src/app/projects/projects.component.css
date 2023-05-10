@@ -1,0 +1,89 @@
+.project-card {
+    position: relative;
+    display: block;
+    align-self: center;
+    justify-self: center;
+}
+
+.card-contents {
+    position: relative;
+    background-color: rgb(19, 19, 19);
+    min-height: 20vh;
+    width: 40vw;
+    z-index: 2;
+    display: inline-block;
+    color: White;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin: 2rem;
+    justify-self: center;
+    align-self: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-showcase {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 30%;
+}
+
+.box {
+    position: absolute;
+    background-color: yellow;
+    min-height: 25vh;
+    width: 40vw;
+    border-radius: 1rem;
+    z-index: -1;
+    margin-top: 5rem;
+}
+#filter {
+    background-color: rgb(19, 19, 19);
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    border: none;
+}
+
+#filters {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 1rem;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .box {
+        max-height: 30vh;
+    }
+
+    main {
+        margin-bottom: 30vw;
+    }
+
+    .project-card {
+        margin: 1rem;
+        padding: 1rem;
+        background-image: none;
+    }
+}

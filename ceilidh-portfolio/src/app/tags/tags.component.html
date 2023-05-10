@@ -1,0 +1,6 @@
+<span class="filter-options">
+    <select name="filter" id="filter">
+        <option (click)="clearTagFilter()" selected>Select a Tag</option>
+        <option *ngFor="let tag of tags" (click)="setTagFilter(tag)" value="{{tag.name}}">{{tag.name}}</option>
+    </select>
+</span>

@@ -1,0 +1,73 @@
+.hero {
+    position: relative;
+    display: block;
+    align-self: center;
+    justify-self: center;
+}
+
+.hero-text{
+    position: absolute;
+    background-image: url('../../assets/images/resource-database--R7raVu_isU-unsplash.jpg') !important;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    width: 40vw;
+    z-index: 2;
+    display: inline-block;
+    justify-content: right;
+    align-items: right;
+    overflow: visible;
+    color: black;
+    padding: 4rem;
+    border-radius: 1rem;
+    margin: 3rem;
+}
+
+.box {
+    position: relative;
+    background-color: yellow;
+    height: 50vh;
+    width: 40vw;
+    padding-right: 8rem;
+    padding-bottom: 8rem;
+    margin-left: 6rem;
+    margin-top: 5rem;
+    border-radius: 1rem;
+    z-index: -1;
+}
+
+.banner-text {
+    align-self: center;
+    position: relative;
+    margin: 2rem;
+    font-size: 20px;
+    min-width: 20vw;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.btn {
+    line-height: 5;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.stack {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5rem;
+    margin: 5rem;
+    width: 100vw;
+}

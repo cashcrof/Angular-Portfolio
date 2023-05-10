@@ -1,0 +1,36 @@
+<ng-container *ngIf="!selectedProject">
+    <h1>Projects</h1>
+    <div id="filters">
+        <app-categories [categoryFilter]="categoryFilter" (newCategoryFilterEvent)="setCategoryFilter($event)">
+        </app-categories>
+        <app-tags [tagFilter]="tagFilter" (newTagFilterEvent)="setTagFilter($event)"></app-tags>
+        <button (click)="clearFilters()" id="filter">Clear Filters</button>
+    </div>
+    <div class="project-showcase">
+        <article class="project-card" *ngFor="let project of projects | projectFilter : tagFilter : categoryFilter">
+            <div class="box"></div>
+            <div class="card-contents">
+                <section>
+                    <a href="/projects/{{project.id}}"><h2>{{ project.title | uppercase }}</h2></a>
+                    <div>{{ project.excerpt }}</div>
+                </section>
+                <footer>
+                    <div *ngIf="project.category" (click)="setCategoryFilter(project.category)">
+                        Category: <span>{{ project.category.name }}</span>
+                    </div>
+                    <div *ngIf="project.tags?.length">
+                        Tags:
+                        <span *ngFor="let tag of project.tags" (click)="setTagFilter(tag)">
+                            {{ tag.name }}
+                        </span>
+                    </div>
+                </footer>
+            </div>
+        </article>
+    </div>
+</ng-container>
+
+<section *ngIf="selectedProject">
+    <div (click)="clearSelectedProject()">Back</div>
+    <app-project-detail [project]="selectedProject"></app-project-detail>
+</section>

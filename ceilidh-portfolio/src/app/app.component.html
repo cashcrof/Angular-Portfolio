@@ -1,0 +1,21 @@
+<div class="container">
+<header>
+  <h1>{{ title }}</h1>
+  <nav>
+    <span routerLink="/">Home</span> |
+    <span routerLink="/projects">Projects</span>
+  </nav>
+</header>
+<main>
+  <router-outlet></router-outlet>
+</main>
+<footer>&copy; {{ date.getFullYear() }} {{ author }}</footer>
+
+<!-- <main>
+  <section id="projects">
+    <app-projects [categoryFilter]="categoryFilter" (newCategoryFilterEvent)="setCategoryFilter($event)"
+      [tagFilter]="tagFilter" (newTagFilterEvent)="setTagFilter($event)"></app-projects>
+  </section>
+</main> -->
+<!-- <footer>&copy; {{ date.getFullYear() }} {{ author }}</footer> -->
+</div>
